@@ -1,5 +1,5 @@
 # jenkins_triggers
-This repo demonstrates the triggered on git for the pipeline demonstration
+This repo demonstrates the trigger methods on git for the pipeline demonstration on jenkins
 * Webhook
 * poll SCM
 * Scheduled Jobs
